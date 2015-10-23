@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+python ~/clyde/test_clyde.py
